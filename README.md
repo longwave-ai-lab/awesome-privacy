@@ -1189,6 +1189,7 @@ These tools are useful when sharing secrets, code snippets or any other kind of 
 ✅  **Instead use**
 #### Web
 - [miniPaint](https://github.com/viliusle/miniPaint) - Open Source alternative to Photopea. miniPaint operates directly in the browser. Nothing will be sent to any server. Everything stays in your browser.
+- [OnDeviceDesk](https://github.com/longwave-ai-lab/ondevicedesk-client-side-engines) - Client-side web suite for biometric ID photos, 300 DPI JFIF injection, die-cut sticker contours, and PDF redaction that runs locally in the browser via WebAssembly and Canvas without uploading files to any server. MIT licensed, web and self-hostable.
 
 #### Desktop
 - [GIMP](https://www.gimp.org/) - The Free & Open Source Image Editor.
